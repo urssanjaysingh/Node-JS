@@ -1,4 +1,4 @@
-# Node-JS
+# Node.js GitHub Directory - urssanjaysingh/Node-JS
 
 Welcome to the GitHub repository for the Node.js project - urssanjaysingh/Node-JS!
 
