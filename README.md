@@ -43,7 +43,7 @@ The project is structured as follows:
 
 ## Contributing
 
-urssanjaysingh welcomes contributions to this project! If you find a bug or have an idea for an enhancement, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
+urssanjaysingh welcomes contributions to this project! And if you find a bug or have an idea for an enhancement, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
 
 ## Contact
 
